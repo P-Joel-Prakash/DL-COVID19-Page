@@ -81,4 +81,4 @@ CSS Font families used:
 
 Roboto
 
-SITE:dlcovid19page.ccbp.tech
+SITE: https://dlgoapage.ccbp.tech/
