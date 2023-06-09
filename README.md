@@ -1,6 +1,6 @@
-# DL-COVID19-Page
+# COVID19-Page
 
-**COVID-19 Page**
+**DL-COVID-19 Page**
 
 In this assignment, let's build a COVID-19 Page by applying the concepts we learned till now. You can use the Bootstrap concepts as well.
 
